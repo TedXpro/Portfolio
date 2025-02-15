@@ -8,9 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
-dist-ssr
-*.local
 
 # Editor directories and files
 .vscode/*
@@ -28,3 +25,19 @@ dist-ssr
 
 # vscode
 .vscode
+
+# Temporary files and directories
+.parcel-cache
+.cache
+.vite
+
+# OS generated files (macOS)
+.AppleDouble
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Other
+.DS_Store  # If not already present
+*.local   # If not already present
