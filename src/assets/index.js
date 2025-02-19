@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import edir from "./company/edir.png";
+import ilri from "./company/ilri.png";
 import studentTeacherCommunication from "./company/studentTeacherCommunication.png";
 
 import carrent from "./carrent.png";
@@ -55,6 +56,7 @@ export {
   meta,
   shopify,
   edir,
+  ilri,
   studentTeacherCommunication,
   carrent,
   jobit,

@@ -17,6 +17,7 @@ import {
   docker,
   meta,
   edir,
+  ilri,
   studentTeacherCommunication,
   shopify,
   carrent,
@@ -112,6 +113,14 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
+  {
+    name: "machine learning",
+    icon: machineLearning,
+  },
+  {
+    name: "data analysis",
+    icon: dataAnalyst,
+  },
 ];
 
 const experiences = [
@@ -139,6 +148,19 @@ const experiences = [
       "Collaborating with classmates to create high-quality product.",
       "Implements a platform where students can communicate with their teachers.",
       "It notifies students about class events and helps students submit their assignments online.",
+    ],
+  },
+  {
+    title: "Network and System Adminstrator",
+    company_name: "ILRI",
+    icon: ilri,
+    iconBg: "#E6DEDD",
+    date: "July 2024 - September 2024",
+    points: [
+      "Adminstrating and maintaining the network and system of the organization.",
+      "Configuring and managing the network devices. (such as switches, routers, firewalls, etc)",
+      "Imaging and deploying the operating system to the organization's computers.",
+      "Troubleshooting and resolving the network and system issues.",
     ],
   },
 ];
