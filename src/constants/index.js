@@ -62,6 +62,14 @@ const services = [
 
 const technologies = [
   {
+    name: "machine learning",
+    icon: machineLearning,
+  },
+  {
+    name: "data analysis",
+    icon: dataAnalyst,
+  },
+  {
     name: "HTML 5",
     icon: html,
   },
@@ -80,10 +88,6 @@ const technologies = [
   {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -112,14 +116,6 @@ const technologies = [
   {
     name: "docker",
     icon: docker,
-  },
-  {
-    name: "machine learning",
-    icon: machineLearning,
-  },
-  {
-    name: "data analysis",
-    icon: dataAnalyst,
   },
 ];
 
